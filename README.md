@@ -1,6 +1,6 @@
 # jamsesh-gql-mid
 
-Jamsesh mid-tier service interfaces with jamsesh-stencil application.
+Jamsesh mid-tier creates a local sqlite instance and provides GQL services that interfaces with jamsesh-stencil application.
 
 ## Installation
 

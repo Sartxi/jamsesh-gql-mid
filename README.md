@@ -11,13 +11,13 @@ yarn add sqlite3
 ```
 
 ## Usage
-1. Install dependecies
-```bash
-npm install
-```
-2. Start the sqlite3 server
+1. Open a terminal window and start the sqlite3 server
 ```bash
 sqlite3
+```
+2. In another terminal start the services
+```bash
+npm install
 ```
 3. Start up your service
 ```bash
